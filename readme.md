@@ -2,11 +2,10 @@
 
 * fork this repo (use the GH fork button)
 * clone the result to your computer  
-  `git clone <url>`
+  git clone <url>
 * make some edits  
   you can use any text editor
 * commit your edits  
-  `git commit -am "<describe what did your do>"`
+  git commit -am "<describe what did your do>"
 * push edits back to gh!  
-  `git push`
-  
+  git push
